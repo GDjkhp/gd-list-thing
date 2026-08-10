@@ -100,28 +100,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        1. Levels that are submitted to the attainable levels list must have decent decoration. 1.0 and similar styled levels are not allowed unless really well executed (such as a very artistic style, or an effect level), these rules are less strict for xl levels.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        2. The minimum length for a level is 45 seconds, and the maximum being 5 minutes.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        3. If a level does not fit in within the given difficulties (insane 8-9 to insane demon 10) it will not be placed, unless the creators nerfs the level and the new version is once again verified.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        4. If a level is updated without any announcement, the user will be punished and the level will be temporarily placed off the list (unless it was minor changes or a bug fix), though if there were any victors they'd still keep the points.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        5. Completion rules are rather simple, no TPS bypass, max fps is 480, must have clicks and a previous attempt before actual completion, and must show attempts on the level afterwards.
                     </p>
                 </div>
             </div>

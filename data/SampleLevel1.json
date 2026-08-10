@@ -7,12 +7,5 @@
     "verification": "https://www.youtube.com/watch?v=W_B60-5egVs",
     "percentToQualify": 69,
     "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }

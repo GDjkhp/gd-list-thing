@@ -1,1 +1,1 @@
-python3 -m gunicorn --worker-class=gevent --workers=1 server:app --bind=0.0.0.0:6767
+python3 -m gunicorn --worker-class=gevent --workers=1 app:app --bind=0.0.0.0:6767
